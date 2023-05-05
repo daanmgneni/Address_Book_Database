@@ -21,7 +21,7 @@ ALTER COLUMN Zip INT;
 ALTER TABLE AddressBookTable
 ALTER COLUMN PhoneNo BIGINT;
 
---UC3 Inserting Values into the Table
+UC3 Inserting Values into the Table
 INSERT INTO AddressBookTable(FirstName,LastName,Address,City,State,Zip,PhoneNo,Email)
 VALUES
 ('Rishabh','Pal','Pamin,VPOKalanaur','Agra','U.P',124113,7906552015,'rish61@gmail.com'),
